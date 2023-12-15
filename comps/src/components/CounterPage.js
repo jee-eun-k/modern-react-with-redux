@@ -1,8 +1,8 @@
-import Button from '../components/Button'
+import Button from './Button'
 //import { useCounterAndLog } from '../hooks/use-counter';
 // import {useState} from 'react';
 import { useReducer } from 'react';
-import Panel from '../components/Panel';
+import Panel from './Panel';
 
 const reducer = (state, action) => {
     //
