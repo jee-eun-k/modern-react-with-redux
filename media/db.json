@@ -1,18 +1,55 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Miss Denise Armstrong",
+      "id": 1
     },
     {
-      "name": "Elsie Price",
+      "name": "Elisa Batz",
+      "id": 2
+    },
+    {
+      "name": "Ms. Deborah Reinger",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Tasty Plastic Towels",
       "id": 3
     },
     {
-      "name": "Harold Strosin",
+      "userId": 2,
+      "title": "Handmade Fresh Shirt",
       "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Refined Granite Chair",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Generic Bronze Hat",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Refined Concrete Keyboard",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Bronze Tuna",
+      "id": 12
     }
   ],
-  "albums": [],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/640/480?lock=2822869805432832",
+      "id": 4
+    }
+  ]
 }
